@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 16 08:25:27 2022
 
-@author: Eniola
+@author: Joseph Ayo Ojediran
 """
 
 import numpy as np
